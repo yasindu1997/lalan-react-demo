@@ -1,12 +1,11 @@
 
 import React from 'react'
+import HomePage from './HomePage/HomePage'
 
 export default function App() {
-  function saveData(){
-    console.log("helloooo...");
-  }
-
   return (
-    <div onClick={saveData}>App</div>
+    <div>
+      <HomePage/>
+    </div>
   )
 }

@@ -1,0 +1,21 @@
+.btn-custom{
+    background-color: red;
+    padding: 15px;
+    color: white;
+    border-radius: 100px;
+    border: 2px solid green;
+    position: absolute;
+    top: 40px;
+}
+
+.txt{
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.main{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+
+}
